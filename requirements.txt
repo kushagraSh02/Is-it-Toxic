@@ -1,0 +1,7 @@
+1. Pandas
+2. Tensorflow
+3. Tensorflow-gpu
+4. Numpy
+5. Matplotlib
+6. Gradio
+7. jinja2
